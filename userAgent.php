@@ -1,5 +1,4 @@
 <?php
-
 /** **********************************************************************************
  * Generate hundreds of thousands of unique mobile & desktop User Agents that are 100% authentic.
  * Supports Hundreds of Android devices, 32 & 64 bit versions of Windows XP-10.5, Linux 540-686, and Mac 7-10.12
