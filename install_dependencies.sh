@@ -1,5 +1,5 @@
 #!/bin/bash
-
+ 
 # Script de instalación automática para dependencias del bot
 # Este script soluciona el issue #2: "Vendor/Vendor not present + V2SOLVER Composer Failure"
 
